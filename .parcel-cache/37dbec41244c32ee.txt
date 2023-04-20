@@ -1,13 +1,4 @@
-4440
-90D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\features\es6-generators.js133258862074357970 0
-77D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\regions\BI.js133258862071948099 0
-67D:\FrontEnd\HTML and CSS\project\node_modules\cosmiconfig\README.md133258862070558443 0
-82D:\FrontEnd\HTML and CSS\project\node_modules\utility-types\dist\mapped-types.d.ts133258862069616512 0
-45D:\FrontEnd\HTML and CSS\project\package.json133258862871485231 0
-66D:\FrontEnd\HTML and CSS\project\node_modules\yaml\types\binary.js133258862066347543 0
-74D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\optimizer-terser\src133258862066231180 1
-73D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\events\src\types.js133258862068515715 0
-77D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\utils\test\input\config133258862072807755 1
+4520
 66D:\FrontEnd\HTML and CSS\project\node_modules\msgpackr-extract\src133258862065784539 1
 91D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\reporter-dev-server\src\types.js.flow133258862065922620 0
 72D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\transformer-js\src133258862068021040 1
@@ -15,7 +6,7 @@
 54D:\FrontEnd\HTML and CSS\project\node_modules\css-what133258862069622232 1
 81D:\FrontEnd\HTML and CSS\project\node_modules\css-tree\lib\syntax\function\var.js133258862073249359 0
 70D:\FrontEnd\HTML and CSS\project\node_modules\nth-check\lib\parse.d.ts133258862070176113 0
-38D:\FrontEnd\HTML and CSS\project\icons133260553156370422 1
+38D:\FrontEnd\HTML and CSS\project\icons133263941652155198 1
 70D:\FrontEnd\HTML and CSS\project\node_modules\svgo\lib\svgo\plugins.js133258862070909021 0
 95D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\runtime-js\src\helpers\node\css-loader.js133258862069159129 0
 78D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\transformer-json\LICENSE133258862065402298 0
@@ -28,7 +19,7 @@
 71D:\FrontEnd\HTML and CSS\project\node_modules\type-fest\ts41\index.d.ts133258862069484903 0
 58D:\FrontEnd\HTML and CSS\project\node_modules\yaml\LICENSE133258862065327234 0
 81D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\features\xhtml.js133258862077707311 0
-49D:\FrontEnd\HTML and CSS\project\scss\styles.scss133260705438018745 0
+49D:\FrontEnd\HTML and CSS\project\scss\styles.scss133264575704226251 0
 95D:\FrontEnd\HTML and CSS\project\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest6.c133258862072269595 0
 80D:\FrontEnd\HTML and CSS\project\node_modules\utility-types\dist\mapped-types.js133258862066950474 0
 92D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\features\font-size-adjust.js133258862074602916 0
@@ -37,7 +28,13 @@
 38D:\FrontEnd\HTML and CSS\project\fonts133260518163549398 1
 91D:\FrontEnd\HTML and CSS\project\node_modules\@swc\helpers\src\_interop_require_default.mjs133258862073303375 0
 55D:\FrontEnd\HTML and CSS\project\node_modules\path-type133258862066757595 1
-37D:\FrontEnd\HTML and CSS\project\dist133260704853942870 1
+37D:\FrontEnd\HTML and CSS\project\dist133264607523349137 1
+43D:\FrontEnd\HTML and CSS\project\.gitignore133263241105880639 0
+78D:\FrontEnd\HTML and CSS\project\node_modules\css-what\lib\commonjs\index.d.ts133258862069733845 0
+81D:\FrontEnd\HTML and CSS\project\node_modules\update-browserslist-db\package.json133258862067230854 0
+63D:\FrontEnd\HTML and CSS\project\node_modules\@msgpackr-extract133258862871395118 1
+74D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\types\lib\index.d.ts133258862067902933 0
+107D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\workers\test\integration\workerfarm\reverse-handle.js133258862070585278 0
 77D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\regions\IR.js133258862075175204 0
 100D:\FrontEnd\HTML and CSS\project\node_modules\@swc\helpers\lib\_class_check_private_static_access.js133258862069477727 0
 57D:\FrontEnd\HTML and CSS\project\node_modules\.bin\parcel133258862078644233 0
@@ -47,20 +44,20 @@
 52D:\FrontEnd\HTML and CSS\project\node_modules\dotenv133258862067169105 1
 70D:\FrontEnd\HTML and CSS\project\node_modules\utility-types\SUPPORT.md133258862069187113 0
 54D:\FrontEnd\HTML and CSS\project\node_modules\css-tree133258862073310652 1
-68D:\FrontEnd\HTML and CSS\project\dist\Rosario-Regular.4f012cc1.woff2133260703081226020 0
+68D:\FrontEnd\HTML and CSS\project\dist\Rosario-Regular.4f012cc1.woff2133264607519931729 0
 73D:\FrontEnd\HTML and CSS\project\node_modules\domutils\lib\feeds.d.ts.map133258862068658672 0
 64D:\FrontEnd\HTML and CSS\project\node_modules\entities\readme.md133258862069781934 0
 93D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\optimizer-terser\lib\TerserOptimizer.js133258862065907300 0
 55D:\FrontEnd\HTML and CSS\project\node_modules\callsites133258862066747226 1
 84D:\FrontEnd\HTML and CSS\project\node_modules\csso\lib\restructure\7-mergeRuleset.js133258862067932192 0
-39D:\FrontEnd\HTML and CSS\project\images133260653072222571 1
+39D:\FrontEnd\HTML and CSS\project\images133264066380428491 1
 76D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\watcher\src\binding.cc133258862066216793 0
 92D:\FrontEnd\HTML and CSS\project\node_modules\.bin\node-gyp-build-optional-packages-test.ps1133258862078644233 0
 71D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\watcher\src\linux133258862070172470 1
 74D:\FrontEnd\HTML and CSS\project\node_modules\svgo\plugins\inlineStyles.js133258862070426017 0
 59D:\FrontEnd\HTML and CSS\project\node_modules\color-convert133258862067642778 1
 77D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\regions\CA.js133258862072483444 0
-43D:\FrontEnd\HTML and CSS\project\index.html133260704707137741 0
+43D:\FrontEnd\HTML and CSS\project\index.html133264575716935715 0
 71D:\FrontEnd\HTML and CSS\project\node_modules\svgo\plugins\sortAttrs.js133258862071974854 0
 66D:\FrontEnd\HTML and CSS\project\node_modules\json5\lib\unicode.js133258862068619327 0
 94D:\FrontEnd\HTML and CSS\project\node_modules\@swc\helpers\src\_class_private_field_update.mjs133258862072958229 0
@@ -76,14 +73,23 @@
 67D:\FrontEnd\HTML and CSS\project\node_modules\json5\lib\register.js133258862067958003 0
 76D:\FrontEnd\HTML and CSS\project\node_modules\escape-string-regexp\readme.md133258862066419029 0
 45D:\FrontEnd\HTML and CSS\project\node_modules133258862871395118 1
+90D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\features\es6-generators.js133258862074357970 0
+77D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\regions\BI.js133258862071948099 0
+67D:\FrontEnd\HTML and CSS\project\node_modules\cosmiconfig\README.md133258862070558443 0
+82D:\FrontEnd\HTML and CSS\project\node_modules\utility-types\dist\mapped-types.d.ts133258862069616512 0
+45D:\FrontEnd\HTML and CSS\project\package.json133258862871485231 0
+66D:\FrontEnd\HTML and CSS\project\node_modules\yaml\types\binary.js133258862066347543 0
+74D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\optimizer-terser\src133258862066231180 1
+73D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\events\src\types.js133258862068515715 0
+77D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\utils\test\input\config133258862072807755 1
 67D:\FrontEnd\HTML and CSS\project\node_modules\css-tree\package.json133258862073279180 0
 37D:\FrontEnd\HTML and CSS\project\scss133258858672696661 1
-48D:\FrontEnd\HTML and CSS\project\scss\fonts.scss133260704853563365 0
+48D:\FrontEnd\HTML and CSS\project\scss\fonts.scss133264243185135538 0
 62D:\FrontEnd\HTML and CSS\project\node_modules\@swc\helpers\src133258862073591345 1
 81D:\FrontEnd\HTML and CSS\project\node_modules\lmdb\dependencies\lz4\lib\README.md133258862073375640 0
 83D:\FrontEnd\HTML and CSS\project\node_modules\postcss-value-parser\lib\stringify.js133258862066556114 0
 52D:\FrontEnd\HTML and CSS\project\node_modules\braces133258862067156251 1
-48D:\FrontEnd\HTML and CSS\project\scss\media.scss133258858672696661 0
+48D:\FrontEnd\HTML and CSS\project\scss\media.scss133264575691929126 0
 74D:\FrontEnd\HTML and CSS\project\node_modules\node-gyp-build\build-test.js133258862066122156 0
 77D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\regions\SV.js133258862076907855 0
 80D:\FrontEnd\HTML and CSS\project\node_modules\type-fest\source\package-json.d.ts133258862070116375 0
@@ -115,7 +121,6 @@
 71D:\FrontEnd\HTML and CSS\project\node_modules\csso\lib\replace\index.js133258862070779255 0
 66D:\FrontEnd\HTML and CSS\project\node_modules\msgpackr\index.d.cts133258862068086678 0
 77D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\regions\SL.js133258862076747212 0
-71D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\codeframe\LICENSE133258862065327234 0
 64D:\FrontEnd\HTML and CSS\project\node_modules\.package-lock.json133258862872034906 0
 73D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\workers\lib\process133258862070247689 1
 64D:\FrontEnd\HTML and CSS\project\node_modules\timsort\LICENSE.md133258862066827798 0
@@ -142,11 +147,6 @@
 63D:\FrontEnd\HTML and CSS\project\node_modules\binary-extensions133258862363185989 1
 55D:\FrontEnd\HTML and CSS\project\node_modules\@mischnic133258862054368102 1
 93D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\core\src\requests\BundleGraphRequest.js133258862071198269 0
-78D:\FrontEnd\HTML and CSS\project\node_modules\css-what\lib\commonjs\index.d.ts133258862069733845 0
-81D:\FrontEnd\HTML and CSS\project\node_modules\update-browserslist-db\package.json133258862067230854 0
-63D:\FrontEnd\HTML and CSS\project\node_modules\@msgpackr-extract133258862871395118 1
-74D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\types\lib\index.d.ts133258862067902933 0
-107D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\workers\test\integration\workerfarm\reverse-handle.js133258862070585278 0
 69D:\FrontEnd\HTML and CSS\project\node_modules\utility-types\README.md133258862068975819 0
 53D:\FrontEnd\HTML and CSS\project\node_modules\@parcel133258862871115671 1
 77D:\FrontEnd\HTML and CSS\project\node_modules\sass\types\util\promise_or.d.ts133258862366718620 0
@@ -230,6 +230,7 @@
 67D:\FrontEnd\HTML and CSS\project\node_modules\mdn-data\api\index.js133258862065857289 0
 58D:\FrontEnd\HTML and CSS\project\node_modules\resolve-from133258862066347543 1
 54D:\FrontEnd\HTML and CSS\project\node_modules\chokidar133258862363230645 1
+48D:\FrontEnd\HTML and CSS\project\icons\Arrow.svg133260754714889953 0
 71D:\FrontEnd\HTML and CSS\project\node_modules\lmdb\dependencies\lz4\lib133258862073371978 1
 60D:\FrontEnd\HTML and CSS\project\node_modules\tslib\tslib.js133258862067163114 0
 56D:\FrontEnd\HTML and CSS\project\node_modules\color-name133258862066347543 1
@@ -266,6 +267,7 @@
 62D:\FrontEnd\HTML and CSS\project\node_modules\svgo\lib\path.js133258862070829858 0
 85D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\packager-svg\lib\SVGPackager.js133258862065907300 0
 67D:\FrontEnd\HTML and CSS\project\node_modules\svgo\lib\css-tools.js133258862070329553 0
+57D:\FrontEnd\HTML and CSS\project\dist\people.8008c66c.png133261371773379269 0
 71D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\optimizer-css\src133258862066243095 1
 54D:\FrontEnd\HTML and CSS\project\node_modules\error-ex133258862066340683 1
 89D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\workers\test\integration\workerfarm133258862070613379 1
@@ -306,6 +308,7 @@
 54D:\FrontEnd\HTML and CSS\project\node_modules\has-flag133258862066726131 1
 77D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\regions\NL.js133258862075926446 0
 69D:\FrontEnd\HTML and CSS\project\node_modules\chrome-trace-event\dist133258862067237055 1
+60D:\FrontEnd\HTML and CSS\project\dist\harvest 1.8931a43d.svg133264607521431286 0
 60D:\FrontEnd\HTML and CSS\project\node_modules\weak-lru-cache133258862068264319 1
 54D:\FrontEnd\HTML and CSS\project\node_modules\htmlnano133258862072223057 1
 77D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\regions\LT.js133258862075525193 0
@@ -522,6 +525,8 @@
 82D:\FrontEnd\HTML and CSS\project\node_modules\@swc\helpers\lib\_define_property.js133258862071012349 0
 74D:\FrontEnd\HTML and CSS\project\node_modules\nth-check\lib\compile.js.map133258862068758301 0
 89D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\features\border-radius.js133258862072184741 0
+52D:\FrontEnd\HTML and CSS\project\icons\harvest 1.svg133260816897226669 0
+58D:\FrontEnd\HTML and CSS\project\images\Group 5289 (1).png133261581592875286 0
 59D:\FrontEnd\HTML and CSS\project\node_modules\.bin\svgo.cmd133258862078650070 0
 77D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\regions\BS.js133258862072364997 0
 76D:\FrontEnd\HTML and CSS\project\node_modules\csso\lib\replace\Percentage.js133258862070976797 0
@@ -548,7 +553,7 @@
 77D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\regions\DZ.js133258862074304915 0
 97D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\transformer-react-refresh-wrap\package.json133258862068213941 0
 106D:\FrontEnd\HTML and CSS\project\node_modules\lightningcss-win32-x64-msvc\lightningcss.win32-x64-msvc.node133258862072866559 0
-48D:\FrontEnd\HTML and CSS\project\dist\index.html133260704707463725 0
+48D:\FrontEnd\HTML and CSS\project\dist\index.html133264607523098516 0
 74D:\FrontEnd\HTML and CSS\project\node_modules\yaml\dist\Schema-88e323a7.js133258862070691782 0
 62D:\FrontEnd\HTML and CSS\project\node_modules\v8-compile-cache133258862066884065 1
 81D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\features\woff2.js133258862077595552 0
@@ -581,7 +586,7 @@
 63D:\FrontEnd\HTML and CSS\project\node_modules\yaml\package.json133258862071516972 0
 65D:\FrontEnd\HTML and CSS\project\node_modules\term-size\readme.md133258862068279793 0
 88D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\features\script-defer.js133258862076581410 0
-56D:\FrontEnd\HTML and CSS\project\dist\index.37ed2979.css133260704853913434 0
+56D:\FrontEnd\HTML and CSS\project\dist\index.37ed2979.css133264607523103518 0
 75D:\FrontEnd\HTML and CSS\project\node_modules\cosmiconfig\dist\types.js.map133258862070470225 0
 84D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\transformer-babel\lib\types.js133258862069471229 0
 77D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\regions\CX.js133258862074123604 0
@@ -609,7 +614,7 @@
 57D:\FrontEnd\HTML and CSS\project\node_modules\yaml\seq.js133258862070921367 0
 79D:\FrontEnd\HTML and CSS\project\node_modules\type-fest\source\stringified.d.ts133258862070804154 0
 61D:\FrontEnd\HTML and CSS\project\node_modules\yaml\types.d.ts133258862071773359 0
-61D:\FrontEnd\HTML and CSS\project\dist\project.3464ddca.js.map133260703081272693 0
+61D:\FrontEnd\HTML and CSS\project\dist\project.3464ddca.js.map133264607523297983 0
 82D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\browserVersions.js133258862072313346 0
 84D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\features\datalist.js133258862074123604 0
 81D:\FrontEnd\HTML and CSS\project\node_modules\terser\lib\compress\tighten-body.js133258862071816962 0
@@ -902,7 +907,7 @@
 77D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\regions\GG.js133258862074740746 0
 92D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\transformer-js\src\esmodule-helpers.js133258862066326668 0
 88D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\hash\parcel-hash.darwin-arm64.node133258862068684725 0
-60D:\FrontEnd\HTML and CSS\project\dist\index.3a4b6f68.css.map133260703081422710 0
+60D:\FrontEnd\HTML and CSS\project\dist\index.3a4b6f68.css.map133264607522950106 0
 67D:\FrontEnd\HTML and CSS\project\node_modules\csso\dist\csso.min.js133258862070405094 0
 60D:\FrontEnd\HTML and CSS\project\node_modules\type-fest\ts41133258862070771536 1
 64D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\events\lib133258862068645443 1
@@ -1032,6 +1037,7 @@
 63D:\FrontEnd\HTML and CSS\project\node_modules\is-json\README.md133258862066099130 0
 87D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\features\videotracks.js133258862077409985 0
 69D:\FrontEnd\HTML and CSS\project\node_modules\posthtml-parser\license133258862065327234 0
+54D:\FrontEnd\HTML and CSS\project\images\Group 5285.png133261581282213784 0
 77D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\regions\CF.js133258862072599332 0
 69D:\FrontEnd\HTML and CSS\project\node_modules\terser\bin\package.json133258862071873996 0
 79D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\features\eme.js133258862074357970 0
@@ -1220,6 +1226,7 @@
 60D:\FrontEnd\HTML and CSS\project\node_modules\immutable\dist133258862363328007 1
 83D:\FrontEnd\HTML and CSS\project\node_modules\svgo\lib\svgo\css-select-adapter.d.ts133258862072423972 0
 100D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\runtime-browser-hmr\lib\loaders\hmr-runtime.js133258862066065983 0
+69D:\FrontEnd\HTML and CSS\project\dist\index.3a4b6f68.css.map.19560.1o133261511179739433 0
 70D:\FrontEnd\HTML and CSS\project\node_modules\node-addon-api\nothing.c133258862065149297 0
 61D:\FrontEnd\HTML and CSS\project\node_modules\chalk\readme.md133258862067495681 0
 80D:\FrontEnd\HTML and CSS\project\node_modules\svgo\plugins\convertShapeToPath.js133258862069820425 0
@@ -1251,9 +1258,6 @@
 67D:\FrontEnd\HTML and CSS\project\node_modules\css-tree\CHANGELOG.md133258862073308368 0
 83D:\FrontEnd\HTML and CSS\project\node_modules\svgo\plugins\removeEmptyContainers.js133258862071390047 0
 72D:\FrontEnd\HTML and CSS\project\node_modules\nullthrows\nullthrows.d.ts133258862066142086 0
-77D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\regions\NE.js133258862075902280 0
-76D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\watcher\src\DirTree.cc133258862067656361 0
-77D:\FrontEnd\HTML and CSS\project\node_modules\source-map-js\lib\quick-sort.js133258862363199130 0
 72D:\FrontEnd\HTML and CSS\project\node_modules\lightningcss\node\index.js133258862068460239 0
 95D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\features\css-backdrop-filter.js133258862073146257 0
 85D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\packager-raw\lib\RawPackager.js133258862065907300 0
@@ -1279,6 +1283,7 @@
 90D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\watcher\src\macos\FSEventsBackend.cc133258862068076671 0
 89D:\FrontEnd\HTML and CSS\project\node_modules\source-map-support\register-hook-require.js133258862066002163 0
 73D:\FrontEnd\HTML and CSS\project\node_modules\svgo\plugins\removeTitle.js133258862071731838 0
+61D:\FrontEnd\HTML and CSS\project\dist\shopping 1.fa3f3570.svg133264607523098516 0
 75D:\FrontEnd\HTML and CSS\project\node_modules\svgo\plugins\removeViewBox.js133258862071873996 0
 73D:\FrontEnd\HTML and CSS\project\node_modules\svgo\plugins\_transforms.js133258862067893734 0
 82D:\FrontEnd\HTML and CSS\project\node_modules\@lmdb\lmdb-win32-x64\node.abi93.node133258862070324384 0
@@ -1335,6 +1340,9 @@
 77D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\regions\ME.js133258862075629773 0
 83D:\FrontEnd\HTML and CSS\project\node_modules\cosmiconfig\dist\getPropertyByPath.js133258862067693391 0
 79D:\FrontEnd\HTML and CSS\project\node_modules\source-map-js\lib\mapping-list.js133258862363185989 0
+77D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\regions\NE.js133258862075902280 0
+76D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\watcher\src\DirTree.cc133258862067656361 0
+77D:\FrontEnd\HTML and CSS\project\node_modules\source-map-js\lib\quick-sort.js133258862363199130 0
 77D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\regions\MU.js133258862075794373 0
 86D:\FrontEnd\HTML and CSS\project\node_modules\source-map-js\lib\source-map-consumer.js133258862363230645 0
 72D:\FrontEnd\HTML and CSS\project\node_modules\lmdb\util\RangeIterable.js133258862073239244 0
@@ -1567,7 +1575,6 @@
 133D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-bad-engines\index.js133258862072285623 0
 88D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\features\console-time.js133258862072919929 0
 80D:\FrontEnd\HTML and CSS\project\node_modules\mdn-data\css\selectors.schema.json133258862069929358 0
-53D:\FrontEnd\HTML and CSS\project\icons\Group 5206.svg133257205901627824 0
 75D:\FrontEnd\HTML and CSS\project\node_modules\posthtml-parser\dist\index.js133258862066215746 0
 105D:\FrontEnd\HTML and CSS\project\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_dump.1133258862069946241 0
 88D:\FrontEnd\HTML and CSS\project\node_modules\posthtml-parser\dist\location-tracker.d.ts133258862068321957 0
@@ -1582,10 +1589,12 @@
 88D:\FrontEnd\HTML and CSS\project\node_modules\posthtml\node_modules\posthtml-parser\dist133258862067958003 1
 63D:\FrontEnd\HTML and CSS\project\node_modules\is-number\LICENSE133258862066094673 0
 72D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\fs\src\MemoryFS.js133258862068102384 0
+75D:\FrontEnd\HTML and CSS\project\dist\pngwing.com (78).4ad12fb0.png.9324.ps133261584470894381 0
 91D:\FrontEnd\HTML and CSS\project\node_modules\posthtml\node_modules\posthtml-parser\license133258862065434509 0
 83D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\transformer-sass\package.json133258862871395118 0
 93D:\FrontEnd\HTML and CSS\project\node_modules\posthtml\node_modules\posthtml-parser\readme.md133258862067393118 0
 99D:\FrontEnd\HTML and CSS\project\node_modules\posthtml\node_modules\posthtml-parser\dist\index.d.ts133258862067759889 0
+66D:\FrontEnd\HTML and CSS\project\dist\Ellipse 141 (3).58406f49.png133264062859166808 0
 110D:\FrontEnd\HTML and CSS\project\node_modules\posthtml\node_modules\posthtml-parser\dist\location-tracker.d.ts133258862068011407 0
 102D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\core\test\fixtures\invalid-distpath\package.json133258862073680426 0
 108D:\FrontEnd\HTML and CSS\project\node_modules\posthtml\node_modules\posthtml-parser\dist\location-tracker.js133258862066625701 0
@@ -1597,7 +1606,7 @@
 77D:\FrontEnd\HTML and CSS\project\node_modules\lmdb\dependencies\lz4\lib\lz4.c133258862070609048 0
 59D:\FrontEnd\HTML and CSS\project\node_modules\htmlnano\docs133258862072169413 1
 74D:\FrontEnd\HTML and CSS\project\node_modules\postcss-value-parser\LICENSE133258862065327234 0
-67D:\FrontEnd\HTML and CSS\project\dist\DMSans-Regular.9f69ba26.woff2133260703081226020 0
+67D:\FrontEnd\HTML and CSS\project\dist\DMSans-Regular.9f69ba26.woff2133264607519931729 0
 88D:\FrontEnd\HTML and CSS\project\node_modules\lmdb\node_modules\node-addon-api\README.md133258862069804273 0
 105D:\FrontEnd\HTML and CSS\project\node_modules\dom-serializer\node_modules\entities\lib\maps\entities.json133258862068011407 0
 79D:\FrontEnd\HTML and CSS\project\node_modules\postcss-value-parser\package.json133258862067793475 0
@@ -1716,7 +1725,6 @@
 74D:\FrontEnd\HTML and CSS\project\node_modules\nth-check\lib\esm\parse.d.ts133258862070139197 0
 103D:\FrontEnd\HTML and CSS\project\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest3.c133258862072082732 0
 77D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\regions\CH.js133258862072639601 0
-60D:\FrontEnd\HTML and CSS\project\images\pngwing.com (16).png133260612559610660 0
 68D:\FrontEnd\HTML and CSS\project\node_modules\normalize-path\LICENSE133258862363123674 0
 78D:\FrontEnd\HTML and CSS\project\node_modules\css-tree\lib\convertor\create.js133258862069832991 0
 70D:\FrontEnd\HTML and CSS\project\node_modules\normalize-path\README.md133258862363144893 0
@@ -1765,7 +1773,7 @@
 82D:\FrontEnd\HTML and CSS\project\node_modules\node-addon-api\tools\clang-format.js133258862069010499 0
 62D:\FrontEnd\HTML and CSS\project\node_modules\globals\index.js133258862065797753 0
 93D:\FrontEnd\HTML and CSS\project\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl.c133258862071816962 0
-57D:\FrontEnd\HTML and CSS\project\dist\Search.4aff7c56.svg133260703081215236 0
+57D:\FrontEnd\HTML and CSS\project\dist\Search.4aff7c56.svg133264607523093527 0
 80D:\FrontEnd\HTML and CSS\project\node_modules\node-addon-api\tools\conversion.js133258862069165009 0
 76D:\FrontEnd\HTML and CSS\project\node_modules\node-addon-api\tools\README.md133258862069940839 0
 74D:\FrontEnd\HTML and CSS\project\node_modules\msgpackr-extract\binding.gyp133258862066195318 0
@@ -1785,6 +1793,7 @@
 117D:\FrontEnd\HTML and CSS\project\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\index.js133258862066509173 0
 120D:\FrontEnd\HTML and CSS\project\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\optional.js133258862066896137 0
 121D:\FrontEnd\HTML and CSS\project\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\package.json133258862067275457 0
+65D:\FrontEnd\HTML and CSS\project\dist\Group 5287 (1).c6848b69.png133264607523103518 0
 118D:\FrontEnd\HTML and CSS\project\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\README.md133258862067668012 0
 126D:\FrontEnd\HTML and CSS\project\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-optional.ps1133258862078650070 0
 113D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg\foo133258862067562107 1
@@ -1798,6 +1807,7 @@
 86D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\node-resolver-core\src\_empty.js133258862066211007 0
 59D:\FrontEnd\HTML and CSS\project\node_modules\escalade\sync133258862068185675 1
 90D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\utils\src\replaceBundleReferences.js133258862071953107 0
+55D:\FrontEnd\HTML and CSS\project\dist\line.3293bee8.svg133264607523098516 0
 116D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias-glob\src133258862072439965 1
 63D:\FrontEnd\HTML and CSS\project\node_modules\msgpackr\index.js133258862068810354 0
 75D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\workers\src\Worker.js133258862071070770 0
@@ -1849,8 +1859,8 @@
 65D:\FrontEnd\HTML and CSS\project\node_modules\micromatch\index.js133258862065797753 0
 69D:\FrontEnd\HTML and CSS\project\node_modules\micromatch\package.json133258862066129839 0
 84D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\runtime-js\src\helpers\browser133258862070936800 1
-66D:\FrontEnd\HTML and CSS\project\node_modules\micromatch\README.md133258862066647338 0
 97D:\FrontEnd\HTML and CSS\project\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_drop.c133258862070968956 0
+66D:\FrontEnd\HTML and CSS\project\node_modules\micromatch\README.md133258862066647338 0
 103D:\FrontEnd\HTML and CSS\project\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest4.c133258862072136499 0
 77D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\regions\KE.js133258862075227996 0
 59D:\FrontEnd\HTML and CSS\project\node_modules\mdn-data\l10n133258862068102384 1
@@ -1961,7 +1971,7 @@
 64D:\FrontEnd\HTML and CSS\project\node_modules\css-tree\README.md133258862073315647 0
 102D:\FrontEnd\HTML and CSS\project\node_modules\dom-serializer\node_modules\entities\lib\encode.d.ts.map133258862068962945 0
 70D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\watcher\index.js133258862070691782 0
-66D:\FrontEnd\HTML and CSS\project\dist\Rosario-Regular.097b957a.ttf133260703081226020 0
+66D:\FrontEnd\HTML and CSS\project\dist\Rosario-Regular.097b957a.ttf133264607519921736 0
 78D:\FrontEnd\HTML and CSS\project\node_modules\cosmiconfig\dist\readFile.js.map133258862070334735 0
 93D:\FrontEnd\HTML and CSS\project\node_modules\lmdb\dependencies\lz4\lib\dll\example\README.md133258862073360865 0
 84D:\FrontEnd\HTML and CSS\project\node_modules\dom-serializer\lib\esm\foreignNames.js133258862065934623 0
@@ -2224,6 +2234,7 @@
 84D:\FrontEnd\HTML and CSS\project\node_modules\htmlnano\lib\modules\sortAttributes.js133258862070561427 0
 77D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\plugin\src\PluginAPI.js133258862066300348 0
 93D:\FrontEnd\HTML and CSS\project\node_modules\htmlnano\lib\modules\sortAttributesWithLists.js133258862070609048 0
+58D:\FrontEnd\HTML and CSS\project\icons\instagram 1 (1).svg133263929443773809 0
 75D:\FrontEnd\HTML and CSS\project\node_modules\htmlnano\docs\babel.config.js133258862066358880 0
 77D:\FrontEnd\HTML and CSS\project\node_modules\@swc\helpers\lib\_instanceof.js133258862071338457 0
 76D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\core\lib\assetUtils.js133258862070558443 0
@@ -2460,6 +2471,7 @@
 65D:\FrontEnd\HTML and CSS\project\node_modules\detect-libc\LICENSE133258862066563760 0
 70D:\FrontEnd\HTML and CSS\project\node_modules\detect-libc\package.json133258862065393369 0
 67D:\FrontEnd\HTML and CSS\project\node_modules\detect-libc\README.md133258862066131307 0
+243D:\FrontEnd\HTML and CSS\project\images\groceries-packages-delivery-covid-19-quarantine-shopping-concept-smiling-handsome-bearded-courier-red-uniform-bring-food-package-grocery-order-client-box-look-amused_1258-16715-removebg-preview 1 (1).svg133264066186800800 0
 98D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\optimizer-image\parcel-image.darwin-x64.node133258862070980797 0
 63D:\FrontEnd\HTML and CSS\project\node_modules\csso\CHANGELOG.md133258862071495259 0
 54D:\FrontEnd\HTML and CSS\project\node_modules\csso\lib133258862071258345 1
@@ -2470,8 +2482,10 @@
 58D:\FrontEnd\HTML and CSS\project\node_modules\csso\LICENSE133258862065327234 0
 60D:\FrontEnd\HTML and CSS\project\node_modules\csso\README.md133258862071544754 0
 63D:\FrontEnd\HTML and CSS\project\node_modules\csso\lib\index.js133258862070734304 0
+53D:\FrontEnd\HTML and CSS\project\icons\shopping 1.svg133261489194281548 0
 66D:\FrontEnd\HTML and CSS\project\node_modules\csso\lib\restructure133258862071326606 1
 60D:\FrontEnd\HTML and CSS\project\node_modules\clone\clone.js133258862066960695 0
+61D:\FrontEnd\HTML and CSS\project\icons\statistic-icon (2).svg133260808354486589 0
 76D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\core\lib\Validation.js133258862073511524 0
 63D:\FrontEnd\HTML and CSS\project\node_modules\csso\lib\usage.js133258862071269329 0
 91D:\FrontEnd\HTML and CSS\project\node_modules\csso\lib\restructure\2-initialMergeRuleset.js133258862066274971 0
@@ -2480,7 +2494,7 @@
 77D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\regions\BO.js133258862072156978 0
 102D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\package-manager\test\fixtures\packages\peers-2.0133258862071259254 1
 85D:\FrontEnd\HTML and CSS\project\node_modules\csso\lib\restructure\6-restructBlock.js133258862067635739 0
-67D:\FrontEnd\HTML and CSS\project\dist\pngwing.com (78).4ad12fb0.png133260703081436597 0
+67D:\FrontEnd\HTML and CSS\project\dist\pngwing.com (78).4ad12fb0.png133264607523334136 0
 75D:\FrontEnd\HTML and CSS\project\node_modules\csso\lib\restructure\index.js133258862070807663 0
 74D:\FrontEnd\HTML and CSS\project\node_modules\csso\lib\restructure\prepare133258862071108409 1
 75D:\FrontEnd\HTML and CSS\project\node_modules\csso\lib\restructure\utils.js133258862071338457 0
@@ -2539,6 +2553,7 @@
 91D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\optimizer-htmlnano\lib\svgMappings.js133258862066798042 0
 72D:\FrontEnd\HTML and CSS\project\node_modules\css-what\lib\es\parse.d.ts133258862069960409 0
 76D:\FrontEnd\HTML and CSS\project\node_modules\css-what\lib\es\parse.d.ts.map133258862069145484 0
+61D:\FrontEnd\HTML and CSS\project\dist\Vector (2).85078e6b.svg133264607521436286 0
 77D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\regions\AE.js133258862068301793 0
 76D:\FrontEnd\HTML and CSS\project\node_modules\css-what\lib\es\stringify.d.ts133258862070111375 0
 93D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\features\link-rel-prefetch.js133258862075450611 0
@@ -2559,7 +2574,9 @@
 65D:\FrontEnd\HTML and CSS\project\node_modules\css-tree\lib\walker133258862072199450 1
 73D:\FrontEnd\HTML and CSS\project\node_modules\css-tree\lib\utils\clone.js133258862069451492 0
 83D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\utils\test\objectHash.test.js133258862071552693 0
+62D:\FrontEnd\HTML and CSS\project\images\planet-earth (1) 1.svg133263942009403234 0
 85D:\FrontEnd\HTML and CSS\project\node_modules\css-tree\lib\utils\createCustomError.js133258862070448192 0
+57D:\FrontEnd\HTML and CSS\project\dist\star 1.02766569.svg133264607523098516 0
 77D:\FrontEnd\HTML and CSS\project\node_modules\css-tree\lib\tokenizer\utils.js133258862073223302 0
 72D:\FrontEnd\HTML and CSS\project\node_modules\css-tree\lib\syntax\atrule133258862073013626 1
 101D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\core\test\fixtures\invalid-engines\package.json133258862073698793 0
@@ -2585,6 +2602,7 @@
 73D:\FrontEnd\HTML and CSS\project\node_modules\@jridgewell\sourcemap-codec133258862067619835 1
 77D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\regions\LV.js133258862075536743 0
 90D:\FrontEnd\HTML and CSS\project\node_modules\css-tree\lib\syntax\pseudo\nth-last-child.js133258862072566991 0
+76D:\FrontEnd\HTML and CSS\project\dist\pngwing.com (80).21421f3d.png.4900.1c4133264575724566341 0
 71D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\watcher\prebuilds133258862071696833 1
 89D:\FrontEnd\HTML and CSS\project\node_modules\@mischnic\json-sourcemap\dist\index.js.flow133258862067479962 0
 92D:\FrontEnd\HTML and CSS\project\node_modules\css-tree\lib\syntax\pseudo\nth-last-of-type.js133258862072586403 0
@@ -2620,6 +2638,7 @@
 81D:\FrontEnd\HTML and CSS\project\node_modules\css-tree\lib\syntax\atrule\index.js133258862072064359 0
 75D:\FrontEnd\HTML and CSS\project\node_modules\css-tree\lib\parser\create.js133258862070121378 0
 73D:\FrontEnd\HTML and CSS\project\node_modules\css-tree\lib\lexer\error.js133258862071289601 0
+57D:\FrontEnd\HTML and CSS\project\icons\delivery-man 2.svg133261488997095887 0
 85D:\FrontEnd\HTML and CSS\project\node_modules\css-tree\lib\lexer\generic-an-plus-b.js133258862071557684 0
 82D:\FrontEnd\HTML and CSS\project\node_modules\css-tree\lib\lexer\generic-urange.js133258862071595600 0
 80D:\FrontEnd\HTML and CSS\project\node_modules\cosmiconfig\dist\readFile.d.ts.map133258862070278746 0
@@ -2726,6 +2745,7 @@
 65D:\FrontEnd\HTML and CSS\project\node_modules\color-name\index.js133258862065789387 0
 83D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\workers\test\cpuCount.test.js133258862069021836 0
 64D:\FrontEnd\HTML and CSS\project\node_modules\color-name\LICENSE133258862066122156 0
+59D:\FrontEnd\HTML and CSS\project\images\App Store - eng.png133261632999141965 0
 72D:\FrontEnd\HTML and CSS\project\node_modules\color-convert\CHANGELOG.md133258862065793074 0
 74D:\FrontEnd\HTML and CSS\project\node_modules\color-convert\conversions.js133258862066205318 0
 62D:\FrontEnd\HTML and CSS\project\node_modules\clone\.npmignore133258862065806359 0
@@ -2862,6 +2882,7 @@
 66D:\FrontEnd\HTML and CSS\project\node_modules\browserslist\node.js133258862067572264 0
 91D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\optimizer-htmlnano\src\svgMappings.js133258862067195672 0
 77D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\regions\NA.js133258862075855156 0
+66D:\FrontEnd\HTML and CSS\project\dist\Vector (2) star.ee3fe3d9.svg133264607523098516 0
 77D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\regions\NC.js133258862075891647 0
 77D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\regions\NO.js133258862075926446 0
 77D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\regions\NR.js133258862075926446 0
@@ -2989,7 +3010,8 @@
 101D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\watcher\prebuilds\linux-x64\node.napi.musl.node133258862072169413 0
 81D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\features\const.js133258862072932694 0
 97D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\features\constraint-validation.js133258862072940769 0
-65D:\FrontEnd\HTML and CSS\project\dist\DMSans-Regular.f376b9b2.eot133260703081395571 0
+65D:\FrontEnd\HTML and CSS\project\dist\DMSans-Regular.f376b9b2.eot133264607520180644 0
+50D:\FrontEnd\HTML and CSS\project\icons\Arrow 7.svg133261516842534136 0
 97D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\features\contentsecuritypolicy.js133258862072958229 0
 80D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\features\cors.js133258862072992432 0
 93D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\features\createimagebitmap.js133258862073011248 0
@@ -3190,6 +3212,7 @@
 90D:\FrontEnd\HTML and CSS\project\node_modules\@swc\helpers\lib\_class_private_field_set.js133258862070158709 0
 80D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\features\heif.js133258862074775096 0
 80D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\features\hevc.js133258862074775096 0
+67D:\FrontEnd\HTML and CSS\project\dist\pngwing.com (38).ebfacd02.png133261372840911387 0
 82D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\features\hidden.js133258862074775096 0
 83D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\features\history.js133258862074775096 0
 97D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\source-map\parcel_sourcemap_node\src\lib.rs133258862072576124 0
@@ -3294,6 +3317,7 @@
 80D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\features\ping.js133258862076215559 0
 85D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\features\png-alpha.js133258862076269005 0
 90D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\features\pointer-events.js133258862076269005 0
+67D:\FrontEnd\HTML and CSS\project\dist\Group 5280 11pro.85bda09a.png133264607521455566 0
 83D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\features\pointer.js133258862076269005 0
 83D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\features\portals.js133258862076290355 0
 96D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\features\prefers-color-scheme.js133258862076295376 0
@@ -3323,7 +3347,7 @@
 94D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\runtime-js\src\helpers\node\js-loader.js133258862070278746 0
 89D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\features\selection-api.js133258862076638582 0
 77D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\core\src\projectPath.js133258862072989506 0
-101D:\FrontEnd\HTML and CSS\project\dist\fresh-melientha-suavis-pierre-leaves-white-surface.c510da77.svg133260703081218383 0
+101D:\FrontEnd\HTML and CSS\project\dist\fresh-melientha-suavis-pierre-leaves-white-surface.c510da77.svg133264607521431286 0
 89D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\features\server-timing.js133258862076638582 0
 107D:\FrontEnd\HTML and CSS\project\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\node.abi108.node133258862067041033 0
 88D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\features\setimmediate.js133258862076667616 0
@@ -3337,6 +3361,7 @@
 92D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\features\speech-synthesis.js133258862076795320 0
 92D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\node-resolver-core\test\fixture\nested133258862072364997 1
 96D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\features\spellcheck-attribute.js133258862076800227 0
+61D:\FrontEnd\HTML and CSS\project\images\Google Play - eng.png133261633086987215 0
 87D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\features\sql-storage.js133258862076800227 0
 80D:\FrontEnd\HTML and CSS\project\node_modules\caniuse-lite\data\features\woff.js133258862077595552 0
 71D:\FrontEnd\HTML and CSS\project\node_modules\acorn\dist\acorn.mjs.d.ts133258862069316437 0
@@ -3448,7 +3473,7 @@
 62D:\FrontEnd\HTML and CSS\project\node_modules\anymatch\LICENSE133258862363046930 0
 67D:\FrontEnd\HTML and CSS\project\node_modules\anymatch\package.json133258862363123674 0
 65D:\FrontEnd\HTML and CSS\project\node_modules\ansi-styles\license133258862065327234 0
-65D:\FrontEnd\HTML and CSS\project\dist\DMSans-Regular.f1fecb26.ttf133260703081231682 0
+65D:\FrontEnd\HTML and CSS\project\dist\DMSans-Regular.f1fecb26.ttf133264607519945823 0
 70D:\FrontEnd\HTML and CSS\project\node_modules\ansi-styles\package.json133258862066122156 0
 90D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\hash\parcel-hash.linux-x64-musl.node133258862071390047 0
 67D:\FrontEnd\HTML and CSS\project\node_modules\ansi-styles\readme.md133258862066461617 0
@@ -3537,6 +3562,7 @@
 84D:\FrontEnd\HTML and CSS\project\node_modules\@swc\helpers\src\_set_prototype_of.mjs133258862073447041 0
 83D:\FrontEnd\HTML and CSS\project\node_modules\@swc\helpers\src\_sliced_to_array.mjs133258862073460759 0
 83D:\FrontEnd\HTML and CSS\project\node_modules\@swc\helpers\src\_super_prop_base.mjs133258862073473535 0
+62D:\FrontEnd\HTML and CSS\project\dist\fast-time 1.4a791710.svg133264607521426291 0
 73D:\FrontEnd\HTML and CSS\project\node_modules\@swc\helpers\src\_throw.mjs133258862073486892 0
 80D:\FrontEnd\HTML and CSS\project\node_modules\@swc\helpers\src\_to_primitive.mjs133258862073504791 0
 88D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\core\src\requests\ConfigRequest.js133258862071516972 0
@@ -3563,6 +3589,7 @@
 85D:\FrontEnd\HTML and CSS\project\node_modules\@swc\helpers\lib\_async_to_generator.js133258862068450981 0
 88D:\FrontEnd\HTML and CSS\project\node_modules\@swc\helpers\lib\_await_async_generator.js133258862068604022 0
 95D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\source-map\parcel_sourcemap_node\build.rs133258862072525842 0
+60D:\FrontEnd\HTML and CSS\project\dist\dotActive.954ce73f.svg133261306334297824 0
 78D:\FrontEnd\HTML and CSS\project\node_modules\@swc\helpers\lib\_await_value.js133258862068737410 0
 94D:\FrontEnd\HTML and CSS\project\node_modules\@swc\helpers\lib\_check_private_redeclaration.js133258862068856902 0
 101D:\FrontEnd\HTML and CSS\project\node_modules\@swc\helpers\lib\_class_apply_descriptor_destructure.js133258862068957850 0
@@ -3657,6 +3684,7 @@
 61D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\workers133258862071274439 1
 69D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\workers\LICENSE133258862065402298 0
 74D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\workers\package.json133258862071238815 0
+57D:\FrontEnd\HTML and CSS\project\dist\marked.1e8cc765.svg133264607523098516 0
 65D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\workers\src133258862071133150 1
 93D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\transformer-image\lib\validateConfig.js133258862067572264 0
 66D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\workers\test133258862071165482 1
@@ -3691,6 +3719,7 @@
 89D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\workers\lib\threads\ThreadsChild.js133258862070691782 0
 90D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\workers\lib\threads\ThreadsWorker.js133258862070786836 0
 73D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\watcher\binding.gyp133258862069519568 0
+57D:\FrontEnd\HTML and CSS\project\dist\user 1.1f56ca57.svg133264607521431286 0
 75D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\watcher\index.js.flow133258862069456000 0
 74D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\watcher\package.json133258862070752653 0
 71D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\watcher\README.md133258862070779911 0
@@ -3763,7 +3792,7 @@
 71D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\types\build-ts.js133258862065811637 0
 68D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\types\index.js133258862066377564 0
 73D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\transformer-svg\lib133258862067893734 1
-57D:\FrontEnd\HTML and CSS\project\dist\project.3464ddca.js133260703081218823 0
+57D:\FrontEnd\HTML and CSS\project\dist\project.3464ddca.js133264607523103518 0
 73D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\transformer-svg\src133258862068132382 1
 140D:\FrontEnd\HTML and CSS\project\node_modules\@jridgewell\trace-mapping\node_modules\@jridgewell\sourcemap-codec\dist\sourcemap-codec.umd.js133258862065929248 0
 85D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\core\test\TargetRequest.test.js133258862073426466 0
@@ -3775,7 +3804,6 @@
 78D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\transformer-sass\LICENSE133258862871202798 0
 74D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\transformer-sass\src133258862871373212 1
 93D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\transformer-sass\src\SassTransformer.js133258862871373212 0
-54D:\FrontEnd\HTML and CSS\project\icons\Ellipse 107.svg133257206766782580 0
 93D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\transformer-sass\lib\SassTransformer.js133258862871373212 0
 88D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\transformer-react-refresh-wrap\src133258862067658564 1
 107D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\transformer-react-refresh-wrap\src\helpers\helpers.js133258862066491593 0
@@ -3814,6 +3842,7 @@
 89D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\transformer-js\src\JSTransformer.js133258862067536752 0
 86D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\transformer-js\src\loadNative.js133258862068109075 0
 92D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\transformer-js\lib\esmodule-helpers.js133258862065934623 0
+67D:\FrontEnd\HTML and CSS\project\dist\pngwing.com (29).2c52c982.png133264048813418794 0
 89D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\transformer-js\lib\JSTransformer.js133258862066928173 0
 75D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\transformer-image\lib133258862067344467 1
 79D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\transformer-image\LICENSE133258862065402298 0
@@ -3844,7 +3873,7 @@
 68D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\logger\LICENSE133258862065402298 0
 94D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\transformer-babel\lib\babelErrorUtils.js133258862066684308 0
 95D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\transformer-babel\lib\BabelTransformer.js133258862067495681 0
-60D:\FrontEnd\HTML and CSS\project\dist\index.3b03301b.css.map133260703081272693 0
+60D:\FrontEnd\HTML and CSS\project\dist\index.3b03301b.css.map133264607522950106 0
 85D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\transformer-babel\lib\config.js133258862068137662 0
 90D:\FrontEnd\HTML and CSS\project\node_modules\@jridgewell\gen-mapping\dist\gen-mapping.mjs133258862068102384 0
 83D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\transformer-babel\lib\flow.js133258862068832324 0
@@ -3959,6 +3988,7 @@
 84D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\packager-js\src\.eslintrc.json133258862069763555 0
 88D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\packager-js\src\CJSOutputFormat.js133258862066310483 0
 88D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\packager-js\src\ESMOutputFormat.js133258862068421404 0
+68D:\FrontEnd\HTML and CSS\project\dist\Google Play - eng.ab76703f.png133264607521456647 0
 91D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\packager-js\src\GlobalOutputFormat.js133258862068700879 0
 80D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\packager-js\src\helpers.js133258862068946579 0
 78D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\packager-js\src\index.js133258862069176180 0
@@ -4003,6 +4033,7 @@
 79D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\optimizer-image\native.js133258862066614581 0
 82D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\optimizer-image\package.json133258862066988777 0
 107D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\optimizer-image\parcel-image.linux-arm-gnueabihf.node133258862071600600 0
+76D:\FrontEnd\HTML and CSS\project\dist\pngwing.com (78).4ad12fb0.png.2228.1ls133263929810593664 0
 104D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\optimizer-image\parcel-image.linux-arm64-musl.node133258862072472089 0
 102D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\optimizer-image\parcel-image.linux-x64-musl.node133258862073055309 0
 91D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\optimizer-image\lib\ImageOptimizer.js133258862065922620 0
@@ -4088,6 +4119,7 @@
 92D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\node-resolver-core\lib\NodeResolver.js133258862071986294 0
 71D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\namer-default\src133258862066240220 1
 87D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\namer-default\src\DefaultNamer.js133258862066315481 0
+58D:\FrontEnd\HTML and CSS\project\icons\Vector (2) star.svg133261585760629050 0
 80D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\markdown-ansi\package.json133258862067163114 0
 72D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\markdown-ansi\test133258862066647338 1
 88D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\markdown-ansi\src\markdown-ansi.js133258862066293522 0
@@ -4135,10 +4167,12 @@
 124D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-bad-engines133258862073792221 1
 69D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\core\index.d.ts133258862073831845 0
 63D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\core\test133258862073503857 1
+67D:\FrontEnd\HTML and CSS\project\dist\pngwing.com (80).21421f3d.png133264607523328322 0
 84D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\core\test\EntryRequest.test.js133258862071968615 0
 86D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\core\test\PackagerRunner.test.js133258862072645415 0
 78D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\core\test\Parcel.test.js133258862072689340 0
 84D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\core\test\ParcelConfig.test.js133258862072822812 0
+76D:\FrontEnd\HTML and CSS\project\dist\pngwing.com (29).2c52c982.png.2228.1lp133263929810593664 0
 90D:\FrontEnd\HTML and CSS\project\node_modules\@jridgewell\set-array\dist\set-array.mjs.map133258862066516494 0
 91D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\core\test\ParcelConfigRequest.test.js133258862072919929 0
 86D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\core\test\RequestTracker.test.js133258862073149714 0
@@ -4238,6 +4272,7 @@
 89D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\compressor-raw\lib\RawCompressor.js133258862065907300 0
 78D:\FrontEnd\HTML and CSS\project\node_modules\@jridgewell\set-array\dist\types133258862067966215 1
 67D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\codeframe\lib133258862070386310 1
+71D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\codeframe\LICENSE133258862065327234 0
 76D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\codeframe\package.json133258862070324964 0
 84D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\codeframe\lib\codeframe.js.map133258862071458672 0
 70D:\FrontEnd\HTML and CSS\project\node_modules\@parcel\cache\index.d.ts133258862069134615 0
@@ -4293,6 +4328,7 @@
 74D:\FrontEnd\HTML and CSS\project\node_modules\@lezer\common\dist\tree.d.ts133258862068604022 0
 69D:\FrontEnd\HTML and CSS\project\node_modules\@jridgewell\gen-mapping133258862067677117 1
 69D:\FrontEnd\HTML and CSS\project\node_modules\@jridgewell\resolve-uri133258862067281711 1
+54D:\FrontEnd\HTML and CSS\project\icons\fast-time 1.svg133261489279315226 0
 79D:\FrontEnd\HTML and CSS\project\node_modules\@jridgewell\gen-mapping\README.md133258862067846177 0
 67D:\FrontEnd\HTML and CSS\project\node_modules\@jridgewell\set-array133258862068145613 1
 71D:\FrontEnd\HTML and CSS\project\node_modules\@jridgewell\trace-mapping133258862067979989 1
@@ -4360,6 +4396,7 @@
 86D:\FrontEnd\HTML and CSS\project\node_modules\@babel\highlight\node_modules\color-name133258862067605000 1
 84D:\FrontEnd\HTML and CSS\project\node_modules\@babel\highlight\node_modules\has-flag133258862066392881 1
 90D:\FrontEnd\HTML and CSS\project\node_modules\@babel\highlight\node_modules\supports-color133258862066798042 1
+65D:\FrontEnd\HTML and CSS\project\dist\delivery-man 2.c6ddfff9.svg133264607521426291 0
 99D:\FrontEnd\HTML and CSS\project\node_modules\@babel\highlight\node_modules\supports-color\index.js133258862066152454 0
 98D:\FrontEnd\HTML and CSS\project\node_modules\@babel\highlight\node_modules\supports-color\license133258862066509173 0
 100D:\FrontEnd\HTML and CSS\project\node_modules\@babel\highlight\node_modules\supports-color\readme.md133258862066896137 0
@@ -4415,27 +4452,70 @@
 55D:\FrontEnd\HTML and CSS\project\node_modules\.bin\svgo133258862078650070 0
 59D:\FrontEnd\HTML and CSS\project\node_modules\.bin\svgo.ps1133258862078650070 0
 61D:\FrontEnd\HTML and CSS\project\node_modules\.bin\terser.cmd133258862078644233 0
+55D:\FrontEnd\HTML and CSS\project\images\Ellipse 141.png133264061033762503 0
+96D:\FrontEnd\HTML and CSS\project\images\fresh-melientha-suavis-pierre-leaves-white-surface 0.svg133261547114197946 0
+63D:\FrontEnd\HTML and CSS\project\images\Group 5278 11promax.png133261592638479915 0
+60D:\FrontEnd\HTML and CSS\project\images\Group 5280 11pro.png133261592755425466 0
+58D:\FrontEnd\HTML and CSS\project\images\Group 5287 (1).png133261341605030571 0
+48D:\FrontEnd\HTML and CSS\project\images\line.svg133261337717929023 0
 61D:\FrontEnd\HTML and CSS\project\images\logo-planet-earth.svg133260484396429628 0
 60D:\FrontEnd\HTML and CSS\project\images\pngwing.com (29).png133260615932969096 0
 60D:\FrontEnd\HTML and CSS\project\images\pngwing.com (36).png133260619170573350 0
 60D:\FrontEnd\HTML and CSS\project\images\pngwing.com (37).png133260619261735930 0
 60D:\FrontEnd\HTML and CSS\project\images\pngwing.com (38).png133260619325299548 0
-60D:\FrontEnd\HTML and CSS\project\images\pngwing.com (50).png133260623098228029 0
 59D:\FrontEnd\HTML and CSS\project\images\pngwing.com (6).png133260610082979051 0
 60D:\FrontEnd\HTML and CSS\project\images\pngwing.com (78).png133260634025936383 0
+60D:\FrontEnd\HTML and CSS\project\images\pngwing.com (80).png133260738089690845 0
 67D:\FrontEnd\HTML and CSS\project\images\vegetables-fruits-white.svg133260440662826344 0
+83D:\FrontEnd\HTML and CSS\project\images\vegetables-fruits-white_55883-892 1 (1).png133261343301378514 0
 46D:\FrontEnd\HTML and CSS\project\icons\Buy.svg133260536520000000 0
-61D:\FrontEnd\HTML and CSS\project\icons\planet-earth (1) 1.svg133257203942063410 0
+57D:\FrontEnd\HTML and CSS\project\icons\facebook 1 (1).svg133263929318653935 0
+63D:\FrontEnd\HTML and CSS\project\icons\Group 5173 (1) stars.svg133261618778566232 0
+49D:\FrontEnd\HTML and CSS\project\icons\marked.svg133261300379710059 0
+49D:\FrontEnd\HTML and CSS\project\icons\star 1.svg133260816465360118 0
+61D:\FrontEnd\HTML and CSS\project\icons\statistic-icon (1).svg133260808417699426 0
+61D:\FrontEnd\HTML and CSS\project\icons\statistic-icon (3).svg133260808280968276 0
+56D:\FrontEnd\HTML and CSS\project\icons\twitter 1 (1).svg133263929371055038 0
+49D:\FrontEnd\HTML and CSS\project\icons\user 1.svg133260816234204091 0
+53D:\FrontEnd\HTML and CSS\project\icons\Vector (2).svg133261590698344930 0
+58D:\FrontEnd\HTML and CSS\project\icons\Vector (3) star.svg133261585836100320 0
+53D:\FrontEnd\HTML and CSS\project\icons\Vector (3).svg133261590752338813 0
 57D:\FrontEnd\HTML and CSS\project\fonts\DMSans-Regular.eot132115854850000000 0
 58D:\FrontEnd\HTML and CSS\project\fonts\DMSans-Regular.woff132115854850000000 0
 58D:\FrontEnd\HTML and CSS\project\fonts\Rosario-Regular.eot132115747260000000 0
 58D:\FrontEnd\HTML and CSS\project\fonts\Rosario-Regular.ttf132115747260000000 0
 60D:\FrontEnd\HTML and CSS\project\fonts\Rosario-Regular.woff2132115747260000000 0
-54D:\FrontEnd\HTML and CSS\project\dist\Buy.06218f72.svg133260703081376997 0
-66D:\FrontEnd\HTML and CSS\project\dist\DMSans-Regular.5b2017f2.woff133260703081381992 0
-60D:\FrontEnd\HTML and CSS\project\dist\index.37ed2979.css.map133260704853933307 0
-56D:\FrontEnd\HTML and CSS\project\dist\index.3a4b6f68.css133260703081381992 0
-56D:\FrontEnd\HTML and CSS\project\dist\index.3b03301b.css133260703081218823 0
-68D:\FrontEnd\HTML and CSS\project\dist\logo-planet-earth.2abe618c.svg133260703081376997 0
-66D:\FrontEnd\HTML and CSS\project\dist\Rosario-Regular.1371b2bd.eot133260703081392053 0
-67D:\FrontEnd\HTML and CSS\project\dist\Rosario-Regular.ee1f409a.woff133260703081381992 0
+66D:\FrontEnd\HTML and CSS\project\dist\App Store - eng.9ea6bc41.png133264607523115734 0
+58D:\FrontEnd\HTML and CSS\project\dist\Arrow 7.ff83f8d5.svg133264607521431286 0
+56D:\FrontEnd\HTML and CSS\project\dist\Arrow.f10c07c0.svg133264607523098516 0
+54D:\FrontEnd\HTML and CSS\project\dist\Buy.06218f72.svg133264607521426291 0
+66D:\FrontEnd\HTML and CSS\project\dist\DMSans-Regular.5b2017f2.woff133264607520147576 0
+62D:\FrontEnd\HTML and CSS\project\dist\Ellipse 141.b76553ce.png133264063026922391 0
+65D:\FrontEnd\HTML and CSS\project\dist\facebook 1 (1).0fcd7f35.svg133264607521426291 0
+103D:\FrontEnd\HTML and CSS\project\dist\fresh-melientha-suavis-pierre-leaves-white-surface 0.e4571b9b.svg133261549391422075 0
+70D:\FrontEnd\HTML and CSS\project\dist\Group 5278 11promax.c4874a8f.png133264607523115734 0
+61D:\FrontEnd\HTML and CSS\project\dist\Group 5285.8ad76ac3.png133264607523243012 0
+74D:\FrontEnd\HTML and CSS\project\dist\Group 5287 (1).c6848b69.png.19560.1m133261511179711467 0
+73D:\FrontEnd\HTML and CSS\project\dist\Group 5287 (1).c6848b69.png.8748.go133261510601493761 0
+65D:\FrontEnd\HTML and CSS\project\dist\Group 5289 (1).24916a94.png133264607521456647 0
+60D:\FrontEnd\HTML and CSS\project\dist\index.37ed2979.css.map133264607523297983 0
+69D:\FrontEnd\HTML and CSS\project\dist\index.37ed2979.css.map.13388.ul133263382713924099 0
+69D:\FrontEnd\HTML and CSS\project\dist\index.37ed2979.css.map.19560.1n133261511179739433 0
+56D:\FrontEnd\HTML and CSS\project\dist\index.3a4b6f68.css133264607521436286 0
+56D:\FrontEnd\HTML and CSS\project\dist\index.3b03301b.css133264607521436286 0
+69D:\FrontEnd\HTML and CSS\project\dist\index.3b03301b.css.map.19560.1p133261511179739433 0
+66D:\FrontEnd\HTML and CSS\project\dist\instagram 1 (1).0e5aa868.svg133264607521431286 0
+68D:\FrontEnd\HTML and CSS\project\dist\logo-planet-earth.2abe618c.svg133264607521436286 0
+69D:\FrontEnd\HTML and CSS\project\dist\planet-earth (1) 1.9487dfbe.svg133264607523098516 0
+76D:\FrontEnd\HTML and CSS\project\dist\pngwing.com (29).2c52c982.png.13388.uh133263382713936658 0
+76D:\FrontEnd\HTML and CSS\project\dist\pngwing.com (29).2c52c982.png.14536.wk133263382713635078 0
+67D:\FrontEnd\HTML and CSS\project\dist\pngwing.com (63).6be01824.png133261373651736904 0
+76D:\FrontEnd\HTML and CSS\project\dist\pngwing.com (78).4ad12fb0.png.13388.uj133263382713936658 0
+76D:\FrontEnd\HTML and CSS\project\dist\pngwing.com (78).4ad12fb0.png.14536.wq133263382713626975 0
+76D:\FrontEnd\HTML and CSS\project\dist\pngwing.com (78).4ad12fb0.png.4900.1c5133264575724566341 0
+66D:\FrontEnd\HTML and CSS\project\dist\Rosario-Regular.1371b2bd.eot133264607520147576 0
+67D:\FrontEnd\HTML and CSS\project\dist\Rosario-Regular.ee1f409a.woff133264607519689845 0
+64D:\FrontEnd\HTML and CSS\project\dist\twitter 1 (1).75b53ebd.svg133264607523098516 0
+66D:\FrontEnd\HTML and CSS\project\dist\Vector (3) star.8970ccdf.svg133264607521436286 0
+61D:\FrontEnd\HTML and CSS\project\dist\Vector (3).0c4a6bb6.svg133264607523098516 0
+90D:\FrontEnd\HTML and CSS\project\dist\vegetables-fruits-white_55883-892 1 (1).4f7383bd.png133261344866976160 0
