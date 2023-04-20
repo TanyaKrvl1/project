@@ -1,0 +1,629 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  width: 100%;
+  height: 140px;
+  z-index: 30;
+  background-color: #fff;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  display: flex;
+  position: fixed;
+  top: 0;
+}
+
+.header ul {
+  width: 374px;
+  height: 24px;
+  justify-content: space-evenly;
+  align-items: center;
+  list-style-type: none;
+  display: flex;
+}
+
+.header ul a {
+  text-decoration: none;
+}
+
+.header ul a:hover {
+  text-decoration: underline;
+}
+
+.header img {
+  width: 56px;
+  height: 56px;
+}
+
+.header .options {
+  flex-direction: row;
+  display: flex;
+}
+
+.header .options button {
+  width: 160px;
+  height: 40px;
+  background: #09a66d;
+  border: none;
+  border-radius: 8px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.header .options button:hover {
+  box-shadow: none;
+  background: #000;
+  transform: scale(1.1);
+}
+
+.header .options button:active {
+  box-shadow: none;
+  background: linear-gradient(102deg, #7d7d7d99 -30%, #15151580 60%);
+}
+
+.header .options .options-button {
+  width: 40px;
+  height: 40px;
+  background: #f3fbf8;
+  border-radius: 50%;
+  justify-content: center;
+  align-items: center;
+  margin-left: 10px;
+  margin-right: 10px;
+  display: flex;
+}
+
+.header .options .options-button img {
+  width: 24px;
+  height: 24px;
+}
+
+.header .options .options-button:hover {
+  background: #ddd9;
+  transform: scale(1.2);
+}
+
+.header .options .options-button:active {
+  opacity: .7;
+  background: #ffffff80;
+}
+
+.header .options div.marked.options-button {
+  position: relative;
+}
+
+.header .options div.marked.options-button:after {
+  content: url("marked.1e8cc765.svg");
+  position: absolute;
+  transform: translate(40%, -60%);
+}
+
+.main {
+  width: 100%;
+  min-height: 850px;
+  background-color: #f3fbf8;
+  background-image: url("pngwing.com (78).4ad12fb0.png"), url("fresh-melientha-suavis-pierre-leaves-white-surface.c510da77.svg"), none;
+  background-position: left 15% bottom, 0 -10%;
+  background-repeat: no-repeat, no-repeat, repeat;
+  background-size: 60%, auto;
+  background-attachment: scroll, scroll, scroll;
+  background-origin: padding-box, padding-box, padding-box;
+  background-clip: border-box, border-box, border-box;
+  flex-direction: column;
+  margin: 140px auto auto;
+  display: flex;
+}
+
+.main .mainDescription {
+  width: auto;
+  text-align: center;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+  margin: 0 auto;
+  display: flex;
+}
+
+.main .mainDescription .title {
+  width: 65%;
+  margin-top: 90px;
+  margin-bottom: 20px;
+}
+
+.main .mainDescription .textContent {
+  width: 40%;
+  margin-bottom: 40px;
+}
+
+.main .info {
+  width: 100%;
+  justify-content: flex-end;
+  display: flex;
+}
+
+.main .info .statistics {
+  min-width: 25%;
+  height: 408px;
+  flex-flow: column wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+  display: flex;
+}
+
+.main .info .statisticItem {
+  width: 250px;
+  min-height: 116px;
+  background: #fff;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  display: flex;
+}
+
+.main .info .statisticIcon {
+  width: 56px;
+  height: 56px;
+  background: #f3fbf8;
+  border-radius: 50%;
+}
+
+.main .info .icon1 {
+  background: #f3fbf8 url("user 1.1f56ca57.svg") center no-repeat;
+}
+
+.main .info .icon2 {
+  background: #f3fbf8 url("star 1.02766569.svg") center no-repeat;
+}
+
+.main .info .icon3 {
+  background: #f3fbf8 url("harvest 1.8931a43d.svg") center no-repeat;
+}
+
+.main .info .statisticIcon:hover {
+  transform: scale(1.2);
+}
+
+.main .info .statisticIcon:active {
+  opacity: .8;
+}
+
+.main .info .statisticParameters {
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+}
+
+.benefits {
+  width: 100%;
+  min-height: 1065px;
+  background-color: #fff;
+  background-image: url("line.3293bee8.svg"), none;
+  background-position: right 10% top -10%;
+  background-repeat: no-repeat, repeat;
+  background-size: auto;
+  background-attachment: scroll, scroll;
+  background-origin: padding-box, padding-box;
+  background-clip: border-box, border-box;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  display: flex;
+}
+
+.benefits .benefitsDescription {
+  width: 50%;
+  flex-direction: column;
+  display: flex;
+}
+
+.benefits .benefitsDescription .benefitsInfo {
+  flex-direction: column;
+  display: flex;
+}
+
+.benefits .benefitsDescription .benefitsInfo .title {
+  margin-bottom: 20px;
+  display: flex;
+}
+
+.benefits .benefitsDescription .benefitsInfo .textContent {
+  width: 85%;
+  display: flex;
+}
+
+.benefits .benefitsDescription .benefitsGroup {
+  max-width: 500px;
+  flex-direction: column;
+  display: flex;
+}
+
+.benefits .benefitsDescription .benefitsGroup .benefitItem {
+  max-width: 500px;
+  min-height: 160px;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: 18px 0;
+  display: flex;
+}
+
+.benefits .benefitsDescription .benefitsGroup .benefitItem:nth-child(2n+1) {
+  background: #fff;
+}
+
+.benefits .benefitsDescription .benefitsGroup .benefitItem:nth-child(2n) {
+  background: #f3fbf8;
+}
+
+.benefits .benefitsDescription .benefitsGroup .benefitIcon {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.benefits .benefitsDescription .benefitsGroup .benefitIcon img {
+  width: 40px;
+  height: 40px;
+}
+
+.benefits .benefitsDescription .benefitsGroup .benefitItem:nth-child(2n+1) .benefitIcon {
+  background: #f3fbf8;
+}
+
+.benefits .benefitsDescription .benefitsGroup .benefitItem:nth-child(2n) .benefitIcon {
+  background: #fff;
+}
+
+.benefits .benefitsDescription .benefitsGroup .benefitIcon:hover {
+  transform: scale(1.2);
+}
+
+.benefits .benefitsDescription .benefitsGroup .benefitIcon:active {
+  opacity: .7;
+}
+
+.benefits .benefitsDescription .benefitsGroup .benefitAbout {
+  width: 60%;
+  flex-direction: column;
+  display: flex;
+}
+
+.benefits .benefitsDescription .arrowdown {
+  height: 35px;
+  width: 15px;
+  background: url("Arrow 7.ff83f8d5.svg") no-repeat;
+}
+
+.benefits .benefitsDescription .navArrow {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.benefits .benefitsDescription .arrowdown:hover {
+  transform: scale(1.2);
+}
+
+.benefits .benefitsDescription .arrowdown:active {
+  opacity: .6;
+}
+
+.benefits .benefitImage {
+  width: 600px;
+  flex-wrap: wrap;
+  justify-content: center;
+  display: flex;
+}
+
+.benefits .benefitImage .benefitImg {
+  max-width: 90%;
+  max-height: 90%;
+  transform: scale(-1, 1);
+}
+
+.offer {
+  width: auto;
+  min-height: 832px;
+  background-color: #09a66d0d;
+  background-image: url("fresh-melientha-suavis-pierre-leaves-white-surface.c510da77.svg"), none;
+  background-position: 100% 100%;
+  background-repeat: no-repeat, repeat;
+  background-size: auto, auto;
+  background-attachment: scroll, scroll;
+  background-origin: padding-box, padding-box;
+  background-clip: border-box, border-box;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin: 0 auto;
+  display: flex;
+}
+
+.offer .offerImage {
+  align-items: center;
+  display: flex;
+}
+
+.offer .offerImg {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.offer .offerDescription {
+  width: 45%;
+  flex-direction: column;
+  display: flex;
+}
+
+.offer .offerDescription .title {
+  margin-bottom: 20px;
+  padding-top: 20%;
+}
+
+.offer .offerDescription .textContent {
+  margin-bottom: 40px;
+}
+
+.reviews {
+  width: auto;
+  min-height: 700px;
+  flex-flow: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: 0 auto;
+  display: flex;
+}
+
+.reviews .feedback {
+  width: 50%;
+  flex-direction: column;
+  display: flex;
+}
+
+.reviews .feedback .title {
+  margin-bottom: 30px;
+}
+
+.reviews .feedback .textContent {
+  width: 80%;
+  margin-bottom: 40px;
+}
+
+.reviews .reviewers .allReviewers {
+  margin: 25% auto 0;
+  padding-bottom: -25%;
+}
+
+.reviews .reviewers .totalScore {
+  transform: translate(0%, -80%);
+}
+
+.reviews .reviewers .totalScore:hover {
+  transform: translate(0%, -80%)scale(1.1);
+}
+
+.reviews .elements {
+  width: 60%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+}
+
+.reviews .rating {
+  width: 150px;
+  height: 24px;
+  flex-direction: row;
+  display: flex;
+}
+
+.reviews .fullstar {
+  width: 23.15px;
+  height: 23.15px;
+  background: url("Vector (2) star.ee3fe3d9.svg");
+}
+
+.reviews .star {
+  width: 23.15px;
+  height: 23.15px;
+  background: url("Vector (3) star.8970ccdf.svg");
+}
+
+.reviews .slider {
+  flex-direction: row;
+  display: flex;
+}
+
+.reviews .slider .sliderButton {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  margin: 0 15px;
+}
+
+.reviews .slider .last {
+  background: url("Vector (3).0c4a6bb6.svg") center no-repeat, #fff;
+  border: 1px solid #ccc;
+  margin: 0 15px;
+}
+
+.reviews .slider .next {
+  background: url("Vector (2).85078e6b.svg") center no-repeat, #09a66d;
+}
+
+.reviews .slider .sliderButton:hover {
+  transform: scale(1.1);
+}
+
+.reviews .slider .sliderButton:active {
+  opacity: .8;
+}
+
+.app {
+  width: 100%;
+  min-height: 700px;
+  flex-flow: wrap;
+  justify-content: center;
+  margin: 0 auto;
+  display: flex;
+}
+
+.app .mobileImg {
+  width: 260px;
+  flex-wrap: wrap;
+  margin-right: 10%;
+  display: flex;
+}
+
+.app .mobile2in1 {
+  align-items: center;
+  display: flex;
+  position: relative;
+}
+
+.app .mobile2in1:hover {
+  transform: scale(1.1);
+}
+
+.app .mobileBack {
+  z-index: 5;
+}
+
+.app .mobileFront {
+  z-index: 10;
+  position: absolute;
+  left: 10%;
+}
+
+.app .appInfo {
+  width: 45%;
+  flex-flow: column wrap;
+  justify-content: center;
+  display: flex;
+}
+
+.app .appInfo .download {
+  width: 170px;
+  height: 40px;
+  background: #f3fbf8;
+  border: none;
+  border-radius: 50px;
+  margin-bottom: 16px;
+}
+
+.app .appInfo .download:hover {
+  background: #ddd9;
+}
+
+.app .appInfo .download:active {
+  opacity: .8;
+  background: #c3eaddcc;
+}
+
+.app .appInfo .title {
+  margin-bottom: 20px;
+}
+
+.app .appInfo .textContent {
+  width: 85%;
+  margin-bottom: 50px;
+}
+
+.app .appInfo .downloadApp {
+  display: flex;
+}
+
+.app .appInfo .downloadApp .appApple {
+  margin-right: 20px;
+}
+
+.app .appInfo .downloadApp .appApple:hover, .app .appInfo .downloadApp .appAndroid:hover {
+  transform: scale(1.1);
+}
+
+.app .appInfo .downloadApp .appApple:active, .app .appInfo .downloadApp .appAndroid:active {
+  opacity: .7;
+}
+
+.footer .grid-container {
+  width: 80%;
+  min-height: 435px;
+  grid-template-rows: 20% repeat(3, 10%);
+  grid-template-columns: .6fr .2fr .2fr .3fr;
+  grid-auto-flow: row;
+  align-content: center;
+  align-items: center;
+  gap: 3%;
+  margin: 0 auto;
+  display: grid;
+}
+
+.footer .grid-container .logo {
+  width: 70px;
+  height: 70px;
+}
+
+.footer .grid-container .footerElement {
+  grid-area: 2 / 1 / 5 / 2;
+  padding-right: 20%;
+}
+
+.footer .grid-container .socialNetworks {
+  display: flex;
+}
+
+.footer .grid-container .socialNetworks div {
+  padding-right: 10%;
+}
+
+.footer .grid-container .socialNetworks div:hover {
+  transform: scale(1.2);
+}
+
+.footer .grid-container .socialNetworks div:active {
+  opacity: .6;
+}
+
+.footer .grid-container .footer-item:hover {
+  text-decoration: underline;
+}
+
+.nextstep {
+  width: 200px;
+  height: 64px;
+  justify-content: flex-start;
+  align-items: center;
+  display: flex;
+}
+
+.nextsteplink {
+  margin-right: 20px;
+}
+
+.nextsteplink:hover {
+  text-decoration: underline;
+}
+
+.nextstepbutton {
+  width: 64px;
+  height: 64px;
+  background: #09a66d url("Arrow.f10c07c0.svg") center no-repeat;
+  border-radius: 50%;
+}
+
+.nextstepbutton:hover {
+  border: 2px solid #0003;
+  transform: scale(1.1);
+}
+
+.nextstepbutton:active {
+  opacity: .8;
+}
+
+/*# sourceMappingURL=index.3b03301b.css.map */

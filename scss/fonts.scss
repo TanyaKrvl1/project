@@ -1,0 +1,178 @@
+
+@font-face {
+    font-family: 'Rosario-Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Rosario-Regular'), local('Rosario-Regular'),
+        url('../fonts/Rosario-Regular.woff2') format('woff2'),
+        url('../fonts/Rosario-Regular.woff') format('woff'),
+        url('../fonts/Rosario-Regular.ttf') format('ttf'),
+        url('../fonts/Rosario-Regular.eot') format('eot');
+}
+
+@font-face {
+    font-family: 'DMSans-Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('DMSans-Regular'), local('DMSans-Regular'),
+        url('../fonts/DMSans-Regular.woff2') format('woff2'),
+        url('../fonts/DMSans-Regular.woff') format('woff'),
+        url('../fonts/DMSans-Regular.ttf') format('ttf'),
+        url('../fonts/DMSans-Regular.eot') format('eot');
+}
+
+
+.header {
+    a {
+        font-family: 'DMSans-Regular', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 24px;
+        color: #222222;
+    }
+    button {
+        font-family: 'DMSans-Regular', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 20px;
+        color: #FFFFFF;
+    }
+
+}
+
+@mixin title {
+    font-family: 'Rosario-Regular', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 90px;
+    color: #222222;
+
+}
+
+.title {
+    @include title();
+}
+
+
+@mixin textContent {
+    font-family: 'DMSans-Regular', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    color: #555555;
+}
+
+.textContent {
+    @include textContent();
+}
+
+
+@mixin nextsteplink {
+    font-family: 'DMSans-Regular', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+    color: #222222;
+}
+
+.nextsteplink {
+    @include nextsteplink();
+}
+
+.amount {
+    font-family: 'DMSans-Regular', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 48px;
+    text-align: center;
+    color: #000000;
+}
+
+.parameter {
+    font-family: 'DMSans-Regular', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;    
+    text-align: center;
+    color: #000000;
+}
+
+
+
+.benefitTitle {
+    font-family: 'DMSans-Regular', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    color: #222222;
+}
+
+.benefitText {
+    font-family: 'DMSans-Regular', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #555555;
+}
+
+
+
+.autor {
+    font-family: 'DMSans-Regular', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 36px;
+    color: #222222;
+
+}
+
+
+
+.download {
+    font-family: 'DMSans-Regular', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 18px;
+    color: #333333;
+}
+
+
+
+.footer-itemMain {
+    font-family: 'DMSans-Regular', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;
+    color: #222222;
+}
+
+.footer-item {
+    font-family: 'DMSans-Regular', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #555555;
+}
+
+
+.footerElement {
+    font-family: 'DMSans-Regular', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    color: #555555;
+}

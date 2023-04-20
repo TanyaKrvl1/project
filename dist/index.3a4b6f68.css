@@ -1,0 +1,416 @@
+@media (max-width: 1345px) {
+  .main {
+    background-size: 90%, auto;
+  }
+
+  .main .mainDescription {
+    width: 80%;
+    align-items: center;
+  }
+
+  .main .mainDescription .title {
+    width: 90%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+  }
+
+  .main .mainDescription .textContent {
+    width: 70%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+  }
+
+  .main .info {
+    padding: 5%;
+  }
+
+  .main .info .statistics {
+    width: 75%;
+  }
+
+  .main .info .statistics .statisticItem {
+    width: 65%;
+  }
+
+  .main .info .statistics .statisticItem .statisticParameters {
+    width: 50%;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+
+  .benefits {
+    flex-direction: column;
+    display: flex;
+  }
+
+  .benefits .benefitsDescription {
+    width: 100%;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .benefits .benefitsDescription .benefitsInfo {
+    width: 55%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+  }
+
+  .benefits .benefitsDescription .benefitsInfo .title {
+    max-width: 70%;
+  }
+
+  .benefits .benefitsDescription .benefitsInfo .textContent {
+    max-width: 80%;
+    margin-bottom: 3%;
+  }
+
+  .benefits .benefitsDescription .benefitsGroup {
+    width: 40%;
+    text-align: center;
+  }
+
+  .benefits .benefitsDescription .benefitsGroup .benefitItem {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 1199px) and (min-width: 790px) {
+  .offer {
+    text-align: center;
+    flex-wrap: wrap-reverse;
+  }
+
+  .offer .offerImg {
+    background-size: cover;
+    transform: scaleX(-1);
+  }
+
+  .offer .offerDescription {
+    width: 80%;
+    align-items: center;
+  }
+
+  .offer .offerDescription .title {
+    padding-top: 10%;
+  }
+
+  .reviews {
+    flex-direction: row;
+  }
+
+  .reviews .feedback {
+    width: 65%;
+    text-align: center;
+    align-items: center;
+    padding-top: 5%;
+  }
+
+  .reviews .feedback .autor {
+    padding-bottom: 1.5%;
+  }
+
+  .reviews .feedback .elements {
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .reviews .feedback .elements .rating {
+    justify-content: center;
+    margin-bottom: 5%;
+  }
+
+  .reviews .feedback .elements .slider {
+    justify-content: center;
+  }
+
+  .reviews .reviewers {
+    width: 25%;
+    align-items: center;
+    margin-top: 15%;
+  }
+
+  .reviews .reviewers .allReviewers .reviewer {
+    height: 100%;
+    width: 100%;
+  }
+
+  .reviews .reviewers .totalScore {
+    transform: translate(0%);
+  }
+
+  .reviews .reviewers .totalScore .allReviews {
+    height: 100%;
+    width: 100%;
+  }
+
+  .reviews .reviewers .totalScore:hover {
+    transform: translate(0%)scale(1.1);
+  }
+
+  .app {
+    min-height: 350px;
+    max-height: 450px;
+  }
+
+  .app .mobileImg {
+    width: 15%;
+  }
+
+  .app .mobileImg .mobile2in1 .mobileBack {
+    width: 65%;
+  }
+
+  .app .mobileImg .mobile2in1 .mobileFront {
+    width: 75%;
+  }
+
+  .app .appInfo {
+    width: 60%;
+  }
+
+  .footer-itemMain {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 31px;
+  }
+
+  .footer-item, .footerElement {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 23px;
+  }
+}
+
+@media (max-width: 789px) {
+  .title {
+    font-size: 45px;
+    line-height: 55px;
+  }
+
+  .textContent {
+    font-size: 15px;
+  }
+
+  .amount {
+    font-size: 36px;
+  }
+
+  .main .info .statistics, .main .info .statistics .statisticItem {
+    width: 90%;
+  }
+
+  .benefits {
+    align-items: center;
+  }
+
+  .benefits .benefitsDescription {
+    width: 100%;
+    flex-direction: column;
+    padding-top: 10%;
+  }
+
+  .benefits .benefitsDescription .benefitsInfo {
+    width: 95%;
+  }
+
+  .benefits .benefitsDescription .benefitsGroup {
+    width: 95%;
+    align-items: center;
+  }
+
+  .benefits .benefitsDescription .benefitsGroup .benefitItem {
+    width: 90%;
+    flex-direction: row;
+  }
+
+  .benefits .benefitImage {
+    width: 85%;
+  }
+
+  .offer {
+    text-align: center;
+    flex-wrap: wrap-reverse;
+  }
+
+  .offer .offerDescription {
+    width: 85%;
+    height: 85%;
+    align-items: center;
+  }
+
+  .offer .offerDescription .title {
+    padding-top: 2%;
+  }
+
+  .offer .offerImage {
+    width: 50%;
+  }
+
+  .reviews {
+    padding-top: 10%;
+  }
+
+  .reviews .feedback {
+    width: 80%;
+    text-align: center;
+    align-items: center;
+  }
+
+  .reviews .feedback .elements {
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 10%;
+  }
+
+  .reviews .feedback .elements .rating {
+    justify-content: center;
+    margin-bottom: 5%;
+  }
+
+  .reviews .feedback .elements .slider {
+    justify-content: center;
+  }
+
+  .reviews .reviewers {
+    height: 15%;
+    width: 80%;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .reviews .reviewers .allReviewers {
+    width: 90%;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .reviews .reviewers .allReviewers .reviewer {
+    width: 100%;
+  }
+
+  .reviews .reviewers .totalScore {
+    width: 85%;
+    transform: translate(30%, -80%);
+  }
+
+  .reviews .reviewers .totalScore .allReviews {
+    width: 50%;
+  }
+
+  .reviews .reviewers .totalScore:hover {
+    transform: translate(30%, -80%)scale(1);
+  }
+
+  .app .mobileImg {
+    width: 20%;
+  }
+
+  .app .mobileImg .mobile2in1 .mobileBack {
+    width: 65%;
+  }
+
+  .app .mobileImg .mobile2in1 .mobileFront {
+    width: 75%;
+  }
+
+  .app .appInfo {
+    width: 60%;
+  }
+
+  .footer-itemMain {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+  }
+
+  .footer-item {
+    font-size: 13px;
+    font-weight: 200;
+    line-height: 16px;
+  }
+
+  .footerElement {
+    font-size: 10px;
+    font-weight: 200;
+    line-height: 12px;
+  }
+}
+
+@media (max-width: 579px) {
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
+  .footer .grid-container {
+    grid-template-rows: repeat(16, 5%);
+    grid-template-columns: 95%;
+    place-content: center;
+    align-items: center;
+    padding: 10%;
+  }
+
+  .footer .grid-container .footer-item {
+    text-align: center;
+    place-content: center;
+    align-items: center;
+  }
+
+  .footer .grid-container .footerElement {
+    text-align: center;
+    place-content: center;
+    align-items: center;
+    padding: 0;
+  }
+
+  .footer .grid-container .footer-itemMain {
+    text-align: center;
+    place-content: center;
+    align-items: center;
+  }
+
+  .footer .grid-container .logo {
+    padding-left: 42%;
+  }
+
+  .footer .grid-container .socialNetworks {
+    text-align: center;
+    place-content: center;
+    align-items: center;
+    padding: 0;
+  }
+
+  .footer .grid-container .socialNetworks div {
+    padding: 1%;
+  }
+
+  .title {
+    font-size: 30px;
+    line-height: 35px;
+  }
+
+  .footerElement {
+    font-size: 7px;
+    font-weight: 200;
+    line-height: 12px;
+  }
+
+  .footer-itemMain {
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 20px;
+  }
+
+  .footer-item {
+    font-size: 10px;
+    font-weight: 200;
+    line-height: 16px;
+  }
+}
+
+/*# sourceMappingURL=index.3a4b6f68.css.map */

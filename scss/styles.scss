@@ -1,0 +1,770 @@
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+.header {
+    width: 100%;
+    height: 140px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: #FFFFFF;
+    position: fixed;
+    z-index: 30;
+    top: 0;
+
+    ul {
+        width: 374px;
+        height: 24px;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    
+        list-style-type: none;
+        a {  
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline; 
+        }
+    }
+    img {
+        width: 56px;
+        height: 56px;
+    }
+
+    .options {
+        display: flex;
+        flex-direction: row;
+        button {
+            width: 160px;
+            height: 40px;
+            background: #09A66D;
+            border-radius: 8px;
+            border: none;
+            margin-left: 20px;
+            margin-right: 20px;
+        }
+        button:hover {
+            transform: scale(1.1);
+            box-shadow: none;
+            background: rgba(0, 0, 0);
+        }
+        button:active {
+            background: linear-gradient(102deg, rgba(125, 125, 125, 0.6) -30.00%, rgba(21, 21, 21, 0.5) 60.00%);
+            box-shadow: none;
+        }
+        .options-button {
+            background: #F3FBF8;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            margin-left: 10px;
+            margin-right: 10px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .options-button img {
+            width: 24px;
+            height: 24px;
+        }
+
+        .options-button:hover {
+            transform: scale(1.2);
+            background: rgba(221, 221, 221, 0.6);
+        }
+        .options-button:active {
+            background: rgba(255, 255, 255, 0.5);
+            opacity: 0.7;
+        }
+
+        div.marked.options-button {
+            position: relative;
+        }
+
+        div.marked.options-button::after {
+            content: url('../icons/marked.svg');
+            transform: translate(40%, -60%);
+            position: absolute;
+            
+        }
+    }
+    
+}
+    
+
+.main {
+    width: 100%;
+    min-height: 850px;
+    background: url('../images/pngwing.com\ \(78\).png') no-repeat, url('../images/fresh-melientha-suavis-pierre-leaves-white-surface.svg') no-repeat, #F3FBF8;
+    /*mix-blend-mode: darken;*/
+    background-position: bottom left 15%, left top -10%; 
+    background-size: 60%, auto;
+    display: flex;
+    margin: 140px auto auto;
+    flex-direction: column;
+    /*overflow: hidden;*/
+    
+    
+
+    .mainDescription {
+        width: auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+        text-align: center;
+
+        margin: 0 auto;
+        
+
+        
+        .title {
+            width: 65%;
+            margin-top: 90px;
+            margin-bottom: 20px;
+            
+        }
+    
+        .textContent {
+            width: 40%;
+            margin-bottom: 40px;
+        
+        }
+
+    }
+    
+
+    .info {
+        width: 100%;
+        display: flex;  
+        justify-content: flex-end;
+        
+
+        /*
+        flex-direction: column;
+        align-items: end;
+        */
+        
+        
+
+        .statistics {
+            min-width: 25%;
+            height: 408px;
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            justify-content: space-between;
+        
+            /*margin-top: -20px;*/
+            
+
+            flex-wrap: wrap;
+            /*flex-direction: row;*/
+            
+        }
+
+        .statisticItem {
+            width: 250px;
+            min-height: 116px;
+            background: #FFFFFF;
+            display: flex;
+            align-items: center;
+            justify-content: space-evenly;
+           /* margin-bottom: 30px;*/
+            flex-wrap: wrap;
+             /*flex-direction: row;*/
+            
+       
+        }
+
+        
+        .statisticIcon {
+            width: 56px;
+            height: 56px;
+            border-radius: 50%;
+            background: #F3FBF8;
+    
+        }
+
+        .icon1 {
+            background: #F3FBF8 url('../icons/user\ 1.svg') no-repeat;
+            background-position: center;
+        }
+        .icon2 {
+            background:  #F3FBF8 url('../icons/star\ 1.svg') no-repeat;
+            background-position: center;
+        }
+        .icon3 {
+            background:  #F3FBF8 url('../icons/harvest\ 1.svg') no-repeat;
+            background-position: center;
+        }
+
+
+        .statisticIcon:hover {
+            transform: scale(1.2);
+        }
+
+        .statisticIcon:active {
+            opacity: 0.8;
+        }
+        
+
+        .statisticParameters {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        
+        }
+
+    }
+
+}
+
+.benefits {
+    width: 100%;
+    min-height: 1065px;
+    margin: 0 auto;
+    background: url('../images/line.svg') no-repeat, #ffffff;
+    background-position: right 10% top -10%; 
+    background-size: auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    
+
+    .benefitsDescription {
+        display: flex;
+        width: 50%;
+        flex-direction: column;
+        
+
+        .benefitsInfo {
+
+            display: flex;
+            flex-direction: column;
+        
+    
+            .title {
+                margin-bottom: 20px;
+                display: flex;
+            }
+    
+            .textContent {
+                width: 85%;
+                display: flex;
+    
+            }
+
+        }
+        
+        .benefitsGroup {
+            display: flex;
+            flex-direction: column;
+            max-width: 500px;
+            
+
+            .benefitItem {
+                margin: 18px 0;
+                max-width: 500px;
+                min-height: 160px;
+                display: flex;
+                align-items: center;
+                justify-content: space-evenly;
+
+            }
+
+            .benefitItem:nth-child(odd) {
+                background: #FFFFFF;
+            }
+    
+            .benefitItem:nth-child(even) {
+                background: #F3FBF8;
+            }
+
+
+            .benefitIcon {
+                width: 80px;
+                height: 80px;
+                border-radius: 50%;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+
+                img {
+                    width: 40px;
+                    height: 40px;
+                }
+            }
+
+
+            .benefitItem:nth-child(odd) .benefitIcon {
+                background: #F3FBF8;
+            }
+
+            .benefitItem:nth-child(even) .benefitIcon {
+                background: #FFFFFF;
+            }
+
+            .benefitIcon:hover {
+                transform: scale(1.2);
+            }
+    
+            .benefitIcon:active {
+                opacity: 0.7;
+
+            }
+
+            /*
+            .icon1:after {
+                content: url('../icons/delivery-man\ 2.svg') no-repeat;
+                background-position: center;
+            }
+            .icon2 {
+                background: url('../icons/shopping\ 1.svg') no-repeat;
+                background-position: center;
+            }
+            .icon3 {
+                background: url('../icons/fast-time\ 1.svg') no-repeat;
+                background-position: center;
+            }
+            */
+
+
+
+            .benefitAbout {
+                display: flex;
+                flex-direction: column;
+                width: 60%;
+            }
+          
+        }
+
+        .arrowdown {
+            background: url('../icons/Arrow\ 7.svg') no-repeat;
+            height: 35px;
+            width: 15px;
+        
+        }
+
+        .navArrow {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .arrowdown:hover {
+            transform: scale(1.2);
+        }
+
+        .arrowdown:active {
+            opacity: 0.6;
+
+        }
+
+    }
+
+
+
+    .benefitImage {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        width: 600px;
+
+
+
+        /*.benefitImg {
+            max-width: 100%;
+            max-height: 100%;
+
+            transform: scale(-1, 1);
+            
+        }*/
+
+        .benefitImg {
+            max-width: 90%;
+            max-height: 90%;
+
+            transform: scale(-1, 1);
+            
+        }
+
+        
+    }
+    
+}
+
+
+.offer {
+    width: auto; /*auto = 100% ??*/
+    min-height: 832px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-evenly;
+    background: url('../images/fresh-melientha-suavis-pierre-leaves-white-surface.svg') no-repeat, rgba(9, 166, 109, 0.05);
+    background-position: right bottom;
+    flex-wrap: wrap;
+
+
+    .offerImage {
+        display: flex;
+        align-items: center;
+
+    }
+    .offerImg {
+        max-width: 100%;
+        max-height: 100%;
+        
+    }
+
+    .offerDescription {
+        display: flex;
+        flex-direction: column;
+        width: 45%;
+
+        .title {
+            padding-top: 20%;
+            margin-bottom: 20px;
+
+        }
+
+        .textContent {
+            margin-bottom: 40px;
+        }
+    }
+}
+
+
+.reviews {
+    width: auto;
+    min-height: 700px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+    .feedback {
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+
+        .title {
+            margin-bottom: 30px;
+        }
+
+        .textContent {
+            width: 80%;
+            margin-bottom: 40px;
+        }
+
+    }
+    
+    .reviewers {
+        
+       .allReviewers {
+           margin: 0 auto;
+           
+           margin-top: 25%;
+           padding-bottom: -25%;
+        }
+
+        .totalScore {
+            transform: translate(0%, -80%);
+        }
+
+        .totalScore:hover {
+            transform: translate(0%, -80%) scale(1.1);
+    
+        }
+    }
+
+    .elements {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+        width: 60%;
+    }
+
+    .rating {
+        display: flex;
+        flex-direction: row;
+        width: 150px;
+        height: 24px;
+    }
+
+    .fullstar {
+        width: 23.15px;
+        height: 23.15px;
+        background: url('../icons/Vector\ \(2\)\ star.svg') repeat;
+    }
+
+    .star {
+        width: 23.15px;
+        height: 23.15px;
+        background: url('../icons/Vector\ \(3\)\ star.svg') repeat;
+    }
+
+    .slider {
+        display: flex;
+        flex-direction: row;
+
+        .sliderButton {
+            width: 56px;
+            height: 56px;
+            border-radius: 50%;
+            margin: 0 15px;
+        }
+
+        .last {
+            border: 1px solid #CCCCCC;
+            background: url('../icons/Vector\ \(3\).svg') no-repeat center, #FFFFFF;
+            margin: 0 15px;
+        }
+
+        .next {
+            background: url('../icons/Vector\ \(2\).svg') no-repeat center, #09A66D;
+        }
+
+        .sliderButton:hover {
+            transform: scale(1.1);
+        }
+
+        .sliderButton:active {
+            opacity: 0.8;
+        }
+
+    }
+
+
+}
+
+.app {
+    width: 100%;
+    min-height: 700px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+
+    .mobileImg {
+        display: flex;
+        margin-right: 10%;
+        flex-wrap: wrap;
+        width: 260px;
+
+        /*background: url('../images/Group 5278 11promax.png') no-repeat, url('../images/Group 5280 11pro.png') no-repeat;*/
+
+    }
+
+    .mobile2in1 {
+        display: flex;
+        align-items: center;
+        
+        position: relative;
+        
+    }
+
+    .mobile2in1:hover {
+        transform: scale(1.1);
+
+    }
+
+    .mobileBack {        
+        z-index: 5;
+    }
+
+    .mobileFront {
+        position: absolute;
+        z-index: 10;
+        left: 10%;
+        
+    }
+
+
+    .appInfo {
+        width: 45%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        flex-wrap: wrap;
+
+        .download {
+            width: 170px;
+            height: 40px;
+            background: #F3FBF8;
+            border-radius: 50px;
+            margin-bottom: 16px;
+            border: none;
+        }
+
+        .download:hover {
+            background: rgba(221, 221, 221, 0.6);
+        }
+
+        .download:active {
+            background:  rgb(195, 234, 221, 0.8);
+            opacity: 0.8;
+        }
+
+        .title {
+            margin-bottom: 20px;
+        }
+
+        .textContent {
+            margin-bottom: 50px;
+            width: 85%;
+        }
+
+        .downloadApp {
+            display: flex;
+
+            .appApple {
+                margin-right: 20px;
+            }
+
+            .appApple:hover {
+                transform: scale(1.1);
+            }
+
+            .appAndroid:hover {
+                transform: scale(1.1);
+            }
+
+            .appApple:active {
+                opacity: 0.7;
+            }
+
+            .appAndroid:active {
+                opacity: 0.7;
+            }
+        }
+
+    }
+
+}
+
+
+
+
+.footer {
+
+    .grid-container {
+        margin: 0 auto;
+        display: grid;
+        grid-template-rows: 20% repeat(3, 10%);
+        grid-template-columns: 0.6fr 0.2fr 0.2fr 0.3fr;
+        width: 80%;
+        min-height: 435px;
+        gap: 3% 3%;
+        grid-auto-flow: row;
+        
+        align-content: center;
+        align-items: center;
+        
+
+        
+        
+
+        .logo {
+            width: 70px;
+            height: 70px;
+            
+        }
+        
+        .footerElement {
+            grid-column-start: 1;
+            grid-column-end: 2;
+            grid-row-start: 2;
+            grid-row-end: 5;
+            padding-right: 20%;
+
+        }
+
+        .socialNetworks {
+            display: flex;
+
+            div {
+                padding-right: 10%;
+            }
+
+            div:hover {
+                transform: scale(1.2); 
+            }
+
+            div:active {
+                opacity: 0.6; 
+            }
+        }
+
+
+
+        .footer-item:hover {
+            text-decoration: underline; 
+        }
+        
+    }
+
+
+
+}
+
+
+
+
+
+
+/*buttons for next step*/
+
+.nextstep {
+    width: 200px;
+    height: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+
+    
+}
+
+.nextsteplink {
+    margin-right: 20px;
+}
+.nextsteplink:hover {
+    text-decoration: underline; 
+}
+
+@mixin nextstepbutton {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    background: url('../icons/Arrow.svg') no-repeat #09A66D ;
+    background-position: center;
+}
+
+.nextstepbutton {
+    @include nextstepbutton();
+}
+
+.nextstepbutton:hover {
+    border: 2px solid  rgba(0, 0, 0, 0.2);
+    transform: scale(1.1);
+}
+
+.nextstepbutton:active {
+    opacity: 0.8;
+}
+
+
